@@ -1,12 +1,12 @@
 # 07 – Docker Volumes & Persistent Storage
 
-## 🧠 What Are Docker Volumes?
+##  What Are Docker Volumes?
 
 Volumes are used to **persist data** outside the container's lifecycle. Even if a container is deleted, the data in a volume remains.
 
 
 
-## 📦 Steps
+##  Steps
 
 ### 1. Create a Volume
 
@@ -36,7 +36,7 @@ docker run -it --name voltest2 -v mydata:/data alpine sh
 cat /data/hello.txt
 ```
 
-✅ Output: `persistent data`
+ Output: `persistent data`
 
 
 
