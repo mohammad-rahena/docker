@@ -1,12 +1,12 @@
 # 08 – Docker Compose & Security Best Practices
 
-## 📦 What is Docker Compose?
+##  What is Docker Compose?
 
 Compose lets you define and manage **multi-container applications** using a simple YAML file.
 
 
 
-## 🛠 App: Flask + Redis Counter
+##  App: Flask + Redis Counter
 
 ### Directory Structure
 ```
@@ -29,7 +29,7 @@ Visit [http://localhost:5000](http://localhost:5000)
 
 
 
-## 🔐 Docker Security Best Practices
+##  Docker Security Best Practices
 
 | Practice                    | Why it matters                    |
 | --------------------------- | --------------------------------- |
