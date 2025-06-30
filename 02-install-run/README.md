@@ -1,4 +1,4 @@
-# 02 – Docker Installation and Basic Container Operations
+# 02 – Docker Installation and Basic Container Operations 
 
 ##  Goal
 - Install Docker (if needed)
