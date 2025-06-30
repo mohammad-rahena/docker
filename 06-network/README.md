@@ -1,12 +1,12 @@
 # 06 – Custom Docker Bridge Network
 
-## 🧠 What is Docker Networking?
+##  What is Docker Networking?
 
 Docker allows containers to communicate via **networks**. Default is `bridge`, but you can create your own for better control and isolation.
 
 ---
 
-## 🔧 Step-by-Step
+##  Step-by-Step
 
 ### 1. Create Network
 
@@ -36,11 +36,11 @@ apk add --no-cache curl
 curl backend:8000
 ```
 
-✅ Output: `Hello from backend!`
+ Output: `Hello from backend!`
 
 
 
-## 🧹 Cleanup
+##  Cleanup
 
 ```bash
 docker rm -f backend
@@ -49,7 +49,7 @@ docker network rm my-custom-net
 
 
 
-## 📝 Summary
+##  Summary
 
 | Feature       | Description                          |
 | ------------- | ------------------------------------ |
