@@ -1,7 +1,7 @@
 # 01 - Introduction to Containerization and Docker Fundamentals
 
 ##  What is Containerization?
-Containerization is the process of packaging an application along with its dependencies and configurations into a single lightweight unit called a **container**. This allows the application to run consistently across environments (e.g., development, testing, production).
+Containerization is the process of packaging an application along with its dependencies and configurations into a single lightweight unit called a **container**. This allows the application to run consistently across environments (e.g., development, testing, production). 
 
 ---
 
