@@ -1,11 +1,11 @@
 # 03 – DockerHub and Multi-Stage Builds
 
-## 📦 What is DockerHub?
+##  What is DockerHub?
 DockerHub is a public container registry where developers can share Docker images. You can pull base images, official distributions, or custom apps.
 
 ---
 
-## 🔑 DockerHub Commands
+##  DockerHub Commands
 
 ```bash
 docker login
