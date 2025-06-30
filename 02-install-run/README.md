@@ -1,13 +1,13 @@
 # 02 – Docker Installation and Basic Container Operations
 
-## ✅ Goal
+##  Goal
 - Install Docker (if needed)
 - Run official containers like NGINX
 - Create a basic Node.js app and Dockerize it
 
 ---
 
-## 🛠 Commands Used
+##  Commands Used
 
 ```bash
 docker pull nginx
