@@ -1,6 +1,6 @@
 # 05 – Push & Pull Docker Images (Docker Hub + ACR)
 
-## ✅ Goal
+##  Goal
 
 - Push a local image to Docker Hub
 - Pull it back and verify
@@ -8,22 +8,22 @@
 
 ---
 
-## 📦 DockerHub: Push & Pull
+##  DockerHub: Push & Pull
 
-### 🛠 Tag the Image
+###  Tag the Image
 
 ```bash
 docker tag multi-stage-demo mdrahena2004/multi-stage-demo:latest
 ````
 
-### 🔐 Login & Push
+###  Login & Push
 
 ```bash
 docker login
 docker push mdrahena2004/multi-stage-demo:latest
 ```
 
-### 🔽 Pull & Run
+###  Pull & Run
 
 ```bash
 docker pull mdrahena2004/multi-stage-demo:latest
@@ -32,7 +32,7 @@ docker run -p 8082:80 mdrahena2004/multi-stage-demo:latest
 
 ---
 
-## ☁️ Azure Container Registry
+##  Azure Container Registry
 
 ```bash
 az login
@@ -44,7 +44,7 @@ docker push mdrahena2004.azurecr.io/multi-stage-demo:latest
 
 
 
-## 📝 Summary
+##  Summary
 
 | Action      | Tool       | Notes                           |
 | ----------- | ---------- | ------------------------------- |
