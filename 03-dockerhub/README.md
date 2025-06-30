@@ -7,7 +7,7 @@ DockerHub is a public container registry where developers can share Docker image
 
 ##  DockerHub Commands
 
-```bash
+```bash 
 docker login
 docker search ubuntu
 docker pull ubuntu
