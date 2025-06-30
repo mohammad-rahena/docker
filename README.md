@@ -4,7 +4,7 @@ This repository contains a collection of practical Docker tasks completed as par
 
 ---
 
-## 📦 What’s Inside
+##  What’s Inside
 
 - **01-intro**: Basics of containerization and Docker fundamentals
 - **02-install-run**: Docker installation and running containers from images
@@ -17,7 +17,7 @@ This repository contains a collection of practical Docker tasks completed as par
 
 ---
 
-## 🛠️ How to Run
+##  How to Run
 
 Each folder contains:
 - A `README.md` with steps and explanation
@@ -27,13 +27,13 @@ You can run each example independently using standard Docker CLI commands.
 
 ---
 
-## ✅ Goal
+##  Goal
 
 The purpose of this project is to demonstrate practical understanding of Docker concepts through small, focused tasks — from getting started with containers to managing multi-container applications.
 
 ---
 
-## 📁 Structure
+##  Structure
 
 ```bash
 docker-assignment/
